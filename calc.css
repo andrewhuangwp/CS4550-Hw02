@@ -1,0 +1,30 @@
+button {
+  height: 75px;
+  width: 50px;
+  font-size: 36px;
+  padding: 10px;
+  margin: 5px;
+  line-height: 0.5em;
+}
+
+.viewer {
+  height: 50px;
+  width: 90%;
+  color: white;
+  font-size: 34px;
+  text-align: right;
+  border: 1px white;
+  margin: 0 auto;
+  border: 1px solid white;
+}
+
+.calculator {
+  background-color: rgb(65, 65, 65);
+  width: 300px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+table {
+  margin: 0 auto;
+}
